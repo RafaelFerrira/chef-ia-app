@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Criado com a Lasy",
-  description: "Projeto criado com Lasy AI",
+  title: "Chef IA - Receitas Inteligentes",
+  description: "Tire uma foto dos seus ingredientes e descubra receitas incríveis que você pode fazer agora mesmo!",
 };
 
 export default function RootLayout({
